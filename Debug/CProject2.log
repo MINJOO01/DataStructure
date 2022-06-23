@@ -1,0 +1,7 @@
+﻿  CProject2.c
+C:\Users\user\source\repos\CProject2\CProject2.c(417,25): warning C4098: 'print_distance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\source\repos\CProject2\CProject2.c(458,25): warning C4098: 'print_distance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\source\repos\CProject2\CProject2.c(406,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\CProject2\CProject2.c(438,17): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\CProject2\CProject2.c(479,17): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  CProject2.vcxproj -> C:\Users\user\source\repos\CProject2\Debug\CProject2.exe
